@@ -26,7 +26,7 @@ The dashboard helps explore restaurant ratings, monthly orders, revenue, online 
 
 ## 📈 Dashboard Preview
 
-See the dashboard screenshot uploaded in this repository.
+![Zomato Restaurant Analytics Dashboard](Screenshot%202026-10-09%20183733.png)
 
 ## 📁 Project Files
 
